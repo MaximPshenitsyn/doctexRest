@@ -1,0 +1,228 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./convert/298273273.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+(c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(c:/texlive/2023/texmf-dist/tex/latex/base/size12.clo))
+(c:/texlive/2023/texmf-dist/tex/latex/float/float.sty)
+(c:/texlive/2023/texmf-dist/tex/latex/tempora/tempora.sty
+(c:/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
+(c:/texlive/2023/texmf-dist/tex/latex/cyrillic/ot2enc.def
+(c:/texlive/2023/texmf-dist/tex/latex/base/ot2enc.dfu))
+(c:/texlive/2023/texmf-dist/tex/latex/cyrillic/t2cenc.def
+(c:/texlive/2023/texmf-dist/tex/latex/base/t2cenc.dfu))
+(c:/texlive/2023/texmf-dist/tex/latex/cyrillic/t2benc.def
+(c:/texlive/2023/texmf-dist/tex/latex/base/t2benc.dfu))
+(c:/texlive/2023/texmf-dist/tex/latex/cyrillic/t2aenc.def
+(c:/texlive/2023/texmf-dist/tex/latex/base/t2aenc.dfu))
+(c:/texlive/2023/texmf-dist/tex/latex/greek-fontenc/lgrenc.def
+(c:/texlive/2023/texmf-dist/tex/latex/greek-inputenc/lgrenc.dfu)
+(c:/texlive/2023/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def)))
+(c:/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty)
+(c:/texlive/2023/texmf-dist/tex/latex/fontaxes/fontaxes.sty)
+(c:/texlive/2023/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(c:/texlive/2023/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2023/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(c:/texlive/2023/texmf-dist/tex/generic/xkeyval/keyval.tex)))))
+(c:/texlive/2023/texmf-dist/tex/latex/ragged2e/ragged2e.sty)
+(c:/texlive/2023/texmf-dist/tex/latex/tools/multicol.sty)
+(c:/texlive/2023/texmf-dist/tex/latex/multirow/multirow.sty)
+(c:/texlive/2023/texmf-dist/tex/latex/tools/tabularx.sty
+(c:/texlive/2023/texmf-dist/tex/latex/tools/array.sty))
+(c:/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def)))
+(c:/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+(c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+(c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty)))
+(c:/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(c:/texlive/2023/texmf-dist/tex/latex/newtx/newtxmath.sty
+`newtxmath' v1.71, 2022/01/16 Math macros based originally on txfonts (msharpe)
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(c:/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty)
+(c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(c:/texlive/2023/texmf-dist/tex/generic/iftex/ifxetex.sty)
+(c:/texlive/2023/texmf-dist/tex/generic/iftex/ifluatex.sty)
+(c:/texlive/2023/texmf-dist/tex/latex/oberdiek/centernot.sty)
+(c:/texlive/2023/texmf-dist/tex/generic/kastrup/binhex.tex)
+amsthm NOT loaded
+) (c:/texlive/2023/texmf-dist/tex/latex/tools/afterpage.sty)
+(c:/texlive/2023/texmf-dist/tex/latex/tools/indentfirst.sty)
+(c:/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
+(c:/texlive/2023/texmf-dist/tex/latex/tempora/t2atempora-tlf.fd))
+(c:/texlive/2023/texmf-dist/tex/latex/tablefootnote/tablefootnote.sty
+(c:/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(c:/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(c:/texlive/2023/texmf-dist/tex/latex/xifthen/xifthen.sty
+(c:/texlive/2023/texmf-dist/tex/latex/tools/calc.sty)
+(c:/texlive/2023/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty)))
+(c:/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty)
+(c:/texlive/2023/texmf-dist/tex/generic/babel/babel.sty
+(c:/texlive/2023/texmf-dist/tex/generic/babel/txtbabel.def)
+(c:/texlive/2023/texmf-dist/tex/generic/babel-russian/russianb.ldf))
+(c:/texlive/2023/texmf-dist/tex/generic/babel/locale/ru/babel-russian.tex)
+(c:/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
+(c:/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(c:/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty))
+(c:/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(c:/texlive/2023/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(c:/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(c:/texlive/2023/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(c:/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(c:/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty
+(c:/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty)
+(c:/texlive/2023/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(c:/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(c:/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(c:/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(c:/texlive/2023/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(c:/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
+(c:/texlive/2023/texmf-dist/tex/latex/hyperref/puenc-greekbasic.def))
+(c:/texlive/2023/texmf-dist/tex/latex/url/url.sty)
+(c:/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
+(c:/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(c:/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(c:/texlive/2023/texmf-dist/tex/latex/hyperref/hpdftex.def
+(c:/texlive/2023/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(c:/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(c:/texlive/2023/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(c:/texlive/2023/texmf-dist/tex/generic/systeme/systeme.sty
+(c:/texlive/2023/texmf-dist/tex/generic/xstring/xstring.sty
+(c:/texlive/2023/texmf-dist/tex/generic/xstring/xstring.tex))
+(c:/texlive/2023/texmf-dist/tex/generic/systeme/systeme.tex))
+(c:/texlive/2023/texmf-dist/tex/latex/pythonhighlight/pythonhighlight.sty
+(c:/texlive/2023/texmf-dist/tex/latex/listings/listings.sty
+(c:/texlive/2023/texmf-dist/tex/latex/listings/lstmisc.sty)
+(c:/texlive/2023/texmf-dist/tex/latex/listings/listings.cfg))
+(c:/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
+(c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)))
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (483.69684pt) is ignored.
+
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (731.23582pt) is ignored.
+
+(c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+No file 298273273.aux.
+(c:/texlive/2023/texmf-dist/tex/latex/newtx/omlntxmi.fd)
+(c:/texlive/2023/texmf-dist/tex/latex/newtx/untxexa.fd)
+(c:/texlive/2023/texmf-dist/tex/latex/cyrillic/ot2cmr.fd)
+(c:/texlive/2023/texmf-dist/tex/latex/cyrillic/t2ccmr.fd)
+(c:/texlive/2023/texmf-dist/tex/latex/cyrillic/t2bcmr.fd)
+(c:/texlive/2023/texmf-dist/tex/latex/cyrillic/t2acmr.fd)
+(c:/texlive/2023/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd)
+(c:/texlive/2023/texmf-dist/tex/latex/newtx/lmsntxsy.fd)
+(c:/texlive/2023/texmf-dist/tex/latex/newtx/lmxntxexx.fd)
+(c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+Package multicol Warning: multicols* inside a box does not make sense.
+(multicol)                Going to balance anyway on input line 73.
+
+(c:/texlive/2023/texmf-dist/tex/latex/tempora/OT1Tempora-TLF.fd)
+(c:/texlive/2023/texmf-dist/tex/latex/newtx/untxmia.fd)
+(c:/texlive/2023/texmf-dist/tex/latex/newtx/untxsym.fd)
+(c:/texlive/2023/texmf-dist/tex/latex/newtx/untxsyc.fd)
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 72--92
+[]$[]$ 
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--92
+
+
+Overfull \hbox (36.05399pt too wide) in paragraph at lines 97--110
+ [][] 
+
+Package multicol Warning: multicols* inside a box does not make sense.
+(multicol)                Going to balance anyway on input line 129.
+
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 128--142
+[]$[]$ 
+[0{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/202
+3/texmf-dist/fonts/enc/dvips/tempora/t2a-tempora.enc}]
+Overfull \hbox (36.05399pt too wide) in paragraph at lines 161--174
+ [][] 
+[1]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 26.86603pt, for example:
+(fancyhdr)                \setlength{\headheight}{26.86603pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-14.86603pt}.
+
+[2]
+Overfull \hbox (3.53009pt too wide) in paragraph at lines 253--253
+[]|\T2A/Tempora-TLF/m/n/14 Измененных| 
+
+Overfull \hbox (1.9761pt too wide) in paragraph at lines 253--253
+[]|\T2A/Tempora-TLF/m/n/14 Замененных| 
+
+Overfull \hbox (2.32132pt too wide) in paragraph at lines 253--253
+[]|\T2A/Tempora-TLF/m/n/14 Аннулированных| 
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
+[]|\T2A/Tempora-TLF/m/n/14 Всего
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
+\T2A/Tempora-TLF/m/n/14 ли-стов
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
+\T2A/Tempora-TLF/m/n/14 (стра-ниц
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
+\T2A/Tempora-TLF/m/n/14 в до-ку-
+
+Underfull \hbox (badness 1708) in paragraph at lines 253--253
+[]|\T2A/Tempora-TLF/m/n/14 ќ до-ку-
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
+[]|\T2A/Tempora-TLF/m/n/14 Входящий
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
+\T2A/Tempora-TLF/m/n/14 ќ со-про-во-
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
+\T2A/Tempora-TLF/m/n/14 ди-тель-но-го
+
+Overfull \hbox (6.05725pt too wide) in paragraph at lines 253--253
+[]|\T2A/Tempora-TLF/m/n/14 Подп.| 
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 26.86603pt, for example:
+(fancyhdr)                \setlength{\headheight}{26.86603pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-14.86603pt}.
+
+[3] (convert/298273273.aux
+(c:/texlive/2023/texmf-dist/tex/latex/tempora/T1Tempora-TLF.fd))
+
+Package rerunfilecheck Warning: File `298273273.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ )
+(see the transcript file for additional information)<c:/texlive/2023/texmf-dist
+/fonts/type1/public/tempora/Tempora-Bold.pfb><c:/texlive/2023/texmf-dist/fonts/
+type1/public/tempora/Tempora-Regular.pfb>
+Output written on convert/298273273.pdf (4 pages, 63301 bytes).
+Transcript written on convert/298273273.log.
